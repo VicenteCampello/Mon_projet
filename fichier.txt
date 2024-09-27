@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-
 tata
->>>>>>> ma_branche_temporaire
+
